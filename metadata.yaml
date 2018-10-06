@@ -30,6 +30,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 tableOfContents: New Custom -- Ralph Roister Doister -- Gammer Gurton's Needle --
   The Trial of Treasure -- Like Will to Like
 title: A Select Collection of Old English Plays, Volume 3
